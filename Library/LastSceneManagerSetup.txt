@@ -1,10 +1,10 @@
 sceneSetups:
-- path: Assets/Scenes/Test_Master_Scene_01.unity
+- path: Assets/Scenes/scene_01.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Scenes/TestScene_01.unity
+- path: Assets/Scenes/scene_02.unity
   isLoaded: 1
   isActive: 0
-- path: Assets/Scenes/TestScene_02.unity
+- path: Assets/Scenes/scene_03.unity
   isLoaded: 1
   isActive: 0

@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp-Editor.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/SceneMenuPlus/SceneStackTools.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/SceneMenuPlus/SceneStacks/SceneStackTools.cs">
     <Files>
-      <File FileName="Assets/Editor/SceneMenuPlus/SceneStackTools.cs" Line="149" Column="2" />
+      <File FileName="Assets/Editor/SceneMenuPlus/SceneStacks/SceneStackSaveSettingsObject.cs" Line="2" Column="1" />
+      <File FileName="Assets/Editor/SceneMenuPlus/SceneStacks/SceneStackObject.cs" Line="5" Column="1" />
+      <File FileName="Assets/Editor/SceneMenuPlus/SceneStacks/SceneStackTools.cs" Line="105" Column="5" />
+      <File FileName="Assets/Editor/SceneMenuPlus/SceneStacks/SceneStacksNew.cs" Line="78" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
